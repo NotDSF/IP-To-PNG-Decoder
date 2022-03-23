@@ -1,0 +1,12 @@
+{
+  "name": "ip2img-decoder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pngjs": "^6.0.0"
+  }
+}
